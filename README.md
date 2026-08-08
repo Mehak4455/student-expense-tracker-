@@ -1,30 +1,44 @@
-# Student Expense Tracker
+# 💰 Student Expense Tracker
 
-A Python-based mini project for tracking student expenses.
+A simple Python-based Student Expense Tracker that helps users manage their income and expenses.
 
-## Features
+## ✨ Features
 
-- Add and manage student expenses
-- Track expense data
-- Simple and beginner-friendly Python project
-- Easy to run on Pydroid 3
+- Add income
+- Add expenses with name, amount, and category
+- View all recorded expenses
+- Calculate total expenses
+- Calculate remaining balance
+- View category-wise expenses
+- Automatically save data in a JSON file
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
+- JSON
 - Pydroid 3
 
-## How to Run
+## ▶️ How to Run
 
-1. Download or clone this repository.
-2. Open `expense_data.py` in Pydroid 3.
+1. Install Pydroid 3 on your Android device.
+2. Open `expense_data.py`.
 3. Run the Python program.
-4. Follow the instructions shown by the program.
+4. Select an option from the menu.
+5. Enter your income or expense details when asked.
 
-## Project Purpose
+## 📌 Project Menu
 
-This project was created as a beginner Python project to practice programming and understand how expense tracking works.
+1. Add Income
+2. Add Expense
+3. Show Expenses
+4. Show Summary
+5. Category-wise Summary
+6. Exit
 
-## Author
+## 🎯 Purpose
+
+This project was created to practice Python programming and build a simple real-world expense management application.
+
+## 👩‍💻 Author
 
 Mehak
